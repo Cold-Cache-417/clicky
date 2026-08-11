@@ -1,10 +1,10 @@
 Update: April 27, 2026.
 
-Hi there! I'm Farza, the guy that made Clicky.
+Hi there! I'm Luqman, the guy that made Clicky.
 
-The existing codebase remains open source. Tinker with it, make it yours, start a company out of it, do whatever you want I don't mind. But, for all the new stuff I'm hacking on, gonna keep it private. To get the latest Clicky, you can go [here](https://www.heyclicky.com/).
+The existing codebase remains open source. Tinker with it, make it yours, start a company out of it, do whatever you want I don't mind. But, for all the new stuff I'm hacking on, gonna keep it private.
 
-I also tweeted about this [here](https://x.com/FarzaTV/status/2043402737828962489).
+
 
 Go crazy with this repo!! It's an MIT license.
 
@@ -13,7 +13,7 @@ It's an AI teacher that lives as a buddy next to your cursor. It can see your sc
 
 Download it [here](https://www.clicky.so/) for free.
 
-Here's the [original tweet](https://x.com/FarzaTV/status/2041314633978659092) that kinda blew up for a demo for more context.
+
 
 ![Clicky — an ai buddy that lives on your mac](clicky-demo.gif)
 
