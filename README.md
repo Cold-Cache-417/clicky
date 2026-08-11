@@ -1,4 +1,4 @@
-Update: April 27, 2026.
+Update: July 27, 2026.
 
 Hi there! I'm Luqman, the guy that made Clicky.
 
@@ -11,11 +11,11 @@ Go crazy with this repo!! It's an MIT license.
 # Hi, this is Clicky.
 It's an AI teacher that lives as a buddy next to your cursor. It can see your screen, talk to you, and even point at stuff. Kinda like having a real teacher next to you.
 
-Download it [here](https://www.clicky.so/) for free.
 
 
 
-![Clicky — an ai buddy that lives on your mac](clicky-demo.gif)
+
+
 
 This is the open-source version of Clicky for those that want to hack on it, build their own features, or just see how it works under the hood.
 
